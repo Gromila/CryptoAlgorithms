@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CA.CourseWork.Crypto.AESCrypto">
+    <Position X="3.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAABAAAQAEICJACAAAAEAYACSAAGCgAAAA=</HashCode>
+      <FileName>AESCrypto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CA.CourseWork.Crypto.AESCryptoDecoder">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AESCryptoDecoder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CA.CourseWork.Crypto.AESCryptoEncoder">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AESCryptoEncoder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CA.CourseWork.Crypto.DESCrypto">
+    <Position X="7.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAACAIAIEICABAAAQAAAAIQAAAgAAACAAAAAKAA=</HashCode>
+      <FileName>DESCrypto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CA.CourseWork.Crypto.DESCryptoEncoder">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DESCryptoEncoder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CA.CourseWork.Crypto.DESCryptoDecoder">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DESCryptoDecoder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CA.CourseWork.Crypto.GOSTCrypto">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GOSTCrypto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CA.CourseWork.Crypto.GOSTCryptoDecoder">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GOSTCryptoDecoder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CA.CourseWork.Crypto.GOSTCryptoEncoder">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GOSTCryptoEncoder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="CA.CourseWork.Crypto.Interfaces.IDecryptable">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Interfaces\IDecryptable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CA.CourseWork.Crypto.Interfaces.IEncryptable">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IEncryptable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
